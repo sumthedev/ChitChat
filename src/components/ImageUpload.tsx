@@ -19,7 +19,7 @@ function ImageUpload({ endpoint, onChange, value }: ImageUploadProps) {
           className="absolute top-0 right-0 p-1 bg-red-500 rounded-full shadow-sm"
           type="button"
         >
-          <XIcon className="h-4 w-4 text-green-950" />
+          <XIcon className="h-4 w-4 text-white" />
         </button>
       </div>
     );
